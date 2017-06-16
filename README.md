@@ -9,4 +9,6 @@ Ce dépôt est formatté de la manière suivante :
 * Un fichier `Scénario.md` qui contient la structure principale de l'histoire
 * Différents dossiers contenant chacun une histoire différente qui s'intégrera dans la *bibliothèque* du scénario
 
+Un exemple de formattage existe dans le dossier `Exemple`.
+
 Laissez parler votre imagination !
