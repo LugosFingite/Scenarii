@@ -1,0 +1,19 @@
+{
+    "page": "intro_1",
+    "image" : "img.png",
+    "son" : "music.ogg",
+    "desc": "Bienvenue dans la <i>terre de Fangh</i> ! Vous vous approchez du joli village de <b>Noirerive</b>...",
+    "actions": [{
+            "desc": "Je tue le nain poli devant moi avec mon sandwich au thon !",
+            "cible": "mort"
+        },
+        {
+            "desc": "Je salue le garde devant moi avec amitié",
+            "cible": "empalement"
+        },
+        {
+            "desc": "Je danse devant moi en chantant un chant grégorien",
+            "cible": "noirerive_1"
+        }
+    ]
+}
